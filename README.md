@@ -8,4 +8,4 @@ Options/Commands:
 Source code in repository. 
 
 Video Demonstration: 
-https://youtu.be/RU7zkojrtcI
+[![Alt Text](https://img.youtube.com/vi/RU7zkojrtcI/0.jpg)](https://www.youtube.com/watch?v=RU7zkojrtcI)
