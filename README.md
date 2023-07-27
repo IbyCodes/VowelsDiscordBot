@@ -6,3 +6,6 @@ Options/Commands:
 !replymode all - I will reply to all messages in the server (I may be a bit annoying!)
 
 Source code in repository. 
+
+Video Demonstration: 
+https://youtu.be/RU7zkojrtcI
